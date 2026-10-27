@@ -22,7 +22,7 @@
     "test:smoke": "node scripts/smoke-monorepo.mjs",
     "check": "deliveryguard check",
     "harness:status": "deliveryguard status",
-    "guild:connect": "node scripts/book-collaboration/cli.mjs up --site https://flyger.xyz --project ce6bed38-0ebf-4450-8b54-2ad17c38755d",
+    "guild:connect": "node scripts/book-collaboration/cli.mjs up --site https://flyger.xyz --project a05903ab-b89f-4e4c-809b-04779f840a0e",
     "guild:status": "node scripts/book-collaboration/cli.mjs status",
     "guild:sync": "node scripts/book-collaboration/cli.mjs sync-sources"
   },
