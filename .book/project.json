@@ -1,12 +1,11 @@
 {
   "site": "https://flyger.xyz",
-  "projectId": "ce6bed38-0ebf-4450-8b54-2ad17c38755d",
-  "projectName": "拼团",
-  "role": "teaching-template",
-  "connectionStatus": "pending-pairing",
+  "projectId": "a05903ab-b89f-4e4c-809b-04779f840a0e",
+  "projectName": "个人实战",
+  "role": "learner",
   "repository": {
-    "fullName": "fly-ai-academy/pintuan-practice",
+    "fullName": "fly-ai-academy/practice-a05903ab-b89f-4e4c-809b-04779f840a0e",
     "defaultBranch": "main",
-    "visibility": "public"
+    "visibility": "private"
   }
 }
