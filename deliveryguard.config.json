@@ -2,8 +2,8 @@
   "$schema": "https://raw.githubusercontent.com/wzf1997/delivery-harness/main/schemas/config.schema.json",
   "schemaVersion": 1,
   "project": {
-    "id": "ce6bed38-0ebf-4450-8b54-2ad17c38755d",
-    "name": "拼团"
+    "id": "a05903ab-b89f-4e4c-809b-04779f840a0e",
+    "name": "个人实战"
   },
   "stableBranch": "main",
   "repositories": [
